@@ -41,7 +41,7 @@ body {
   background-image: url("../src/assets/bg-texture.png");
 }
 
-/* General Styles */
+/* ===================== General Styles ========================== */
 .container {
   width: var(--container-width-lg);
   margin: 0 auto;
@@ -115,8 +115,8 @@ img {
   object-fit: cover;
 }
 
-/* Breakpoints */
-/* Medium Devices */
+/* ===================== Breakpoints ========================== */
+/* ===================== Medium Devices ========================== */
 @media screen and (max-width: 1024px) {
   .container {
     width: var(--container-width-md);
@@ -127,7 +127,7 @@ img {
   }
 }
 
-/* Small Devices */
+/* ===================== Small Devices ========================== */
 @media screen and (max-width: 600px) {
   .container {
     width: var(--container-width-sm);
