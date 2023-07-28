@@ -25,6 +25,10 @@
   --container-width-sm: 90%;
 }
 
+html, body {
+  height: 100%;
+}
+
 html {
   scroll-behavior: smooth;
 }
