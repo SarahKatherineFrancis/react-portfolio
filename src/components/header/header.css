@@ -37,7 +37,7 @@ header {
 }
 
 /* ===================== Me ========================== */
-.me {
+.me img {
   background: linear-gradient(var(--color-primary), transparent);
   width: 22rem;
   height: 30rem;
@@ -63,7 +63,7 @@ header {
 /* ===================== Medium Devices ========================== */
 @media screen and (max-width: 1024px) {
   header {
-    height: 68vh;
+    height: 100vh;
   }
 }
 
